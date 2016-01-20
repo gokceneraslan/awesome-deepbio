@@ -23,7 +23,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-08** | Deep learning for regulatory genomics | *Yongjin Park & Manolis Kellis* | [Nature Biotechnology](https://dx.doi.org/10.1038/nbt.3313)
 
-- **2015-10** | DeepSEA: Predicting effects of noncoding variants with deep learning–based sequence model | *Jian Zhou & Olga G. Troyanskaya* | [Nature Methods: Short intro](https://dx.doi.org/10.1038/nmeth.3604) [Nature Methods](https://dx.doi.org/10.1038/nmeth.3547)
+- **2015-10** | DeepSEA: Predicting effects of noncoding variants with deep learning–based sequence model | *Jian Zhou & Olga G. Troyanskaya* | [Nature Methods: Short intro](https://dx.doi.org/10.1038/nmeth.3604) & [Nature Methods](https://dx.doi.org/10.1038/nmeth.3547)
 
 - **2015-10** | Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | *David R. Kelley, Jasper Snoek, John Rinn* | [Biorxiv](https://dx.doi.org/10.1101/028399)
 
