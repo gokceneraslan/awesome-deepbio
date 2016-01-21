@@ -29,6 +29,9 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv643)
 
+- **2016-01** | PEDLA: predicting enhancers with a deep learning-based algorithmic framework | *Feng Liu, Hao Li, Chao Ren, Xiaochen Bo, Wenjie Shu* | [Biorxiv](https://dx.doi.org/10.1101/036129)
+
+
 ### Contribution
 
 Feel free to send a pull request.
