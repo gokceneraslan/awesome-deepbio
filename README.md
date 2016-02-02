@@ -31,6 +31,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-01** | PEDLA: predicting enhancers with a deep learning-based algorithmic framework | *Feng Liu, Hao Li, Chao Ren, Xiaochen Bo, Wenjie Shu* | [Biorxiv](https://dx.doi.org/10.1101/036129)
 
+- **2016-01** | TensorFlow: Biology’s Gateway to Deep Learning? | *Ladislav Rampasek, Anna Goldenberg* | [Cell Systems](https://dx.doi.org/10.1016/j.cels.2016.01.009)
 
 ### Contribution
 
