@@ -39,6 +39,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Genome-Wide Prediction of cis-Regulatory Regions Using Supervised Deep Learning Methods | *Yifeng Li, Wenqiang Shi, Wyeth W Wasserman* | [Biorxiv](https://dx.doi.org/10.1101/041616)
 
+- **2016-03** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1603.06430)
+
 
 ### Contribution
 
