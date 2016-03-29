@@ -15,6 +15,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-01** | The human splicing code reveals new insights into the genetic determinants of disease  | *Hui Y. Xiong, Babak Alipanahi, Leo J. Lee, Hannes Bretschneider, Daniele Merico, Ryan K. C. Yuen, Yimin Hua, Serge Gueroussov, Hamed S. Najafabadi, Timothy R. Hughes, Quaid Morris, Yoseph Barash, Adrian R. Krainer, Nebojsa Jojic, Stephen W. Scherer, Benjamin J. Blencowe, Brendan J. Frey* | [Science](https://dx.doi.org/10.1126/science.1254806)
 
+- **2015-03** | Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters | *Yifeng Li, Chih-Yu Chen, and Wyeth W. Wasserman* | [19th Annual International Conference, RECOMB 2015, Warsaw, Proceedings](https://dx.doi.org/10.1007/978-3-319-16706-0_20)
+
 - **2015-05** | Trans-species learning of cellular signaling systems with bimodal deep belief networks | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv315)
 
 - **2015-05** | Deep convolutional neural networks for annotating gene expression patterns in the mouse brain | *Tao Zeng, Rongjian Li, Ravi Mukkamala, Jieping Ye and Shuiwang Ji* | [BMC Bioinformatics](https://dx.doi.org/10.1186/s12859-015-0553-9)
@@ -41,6 +43,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1603.06430)
 
+- **2016-03** | Applications of deep learning in biomedicine | *Polina Mamoshina, Armando Vieira, Evgeny Putin, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://dx.doi.org/10.1021/acs.molpharmaceut.5b00982)
 
 ### Contribution
 
