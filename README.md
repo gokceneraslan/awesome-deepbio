@@ -45,7 +45,9 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Applications of deep learning in biomedicine | *Polina Mamoshina, Armando Vieira, Evgeny Putin, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://dx.doi.org/10.1021/acs.molpharmaceut.5b00982)
 
-* **2016-03** | DeepNano: Deep Recurrent Neural Networks for Base Calling in MinION Nanopore Reads | *Vladimír Boža, Broňa Brejová, Tomáš Vinař* | [Arxiv](http://arxiv.org/abs/1603.09195)
+- **2016-03** | DeepNano: Deep Recurrent Neural Networks for Base Calling in MinION Nanopore Reads | *Vladimír Boža, Broňa Brejová, Tomáš Vinař* | [Arxiv](http://arxiv.org/abs/1603.09195)
+
+- **2016-03** | deepTarget: End-to-end Learning Framework for microRNA Target Prediction using Deep Recurrent Neural Networks | [Arxiv](http://arxiv.org/abs/1603.09123)
 
 ### Contribution
 
