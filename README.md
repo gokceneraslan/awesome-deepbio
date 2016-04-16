@@ -47,7 +47,9 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | DeepNano: Deep Recurrent Neural Networks for Base Calling in MinION Nanopore Reads | *Vladimír Boža, Broňa Brejová, Tomáš Vinař* | [Arxiv](http://arxiv.org/abs/1603.09195)
 
-- **2016-03** | deepTarget: End-to-end Learning Framework for microRNA Target Prediction using Deep Recurrent Neural Networks | [Arxiv](http://arxiv.org/abs/1603.09123)
+- **2016-03** | deepTarget: End-to-end Learning Framework for microRNA Target Prediction using Deep Recurrent Neural Networks | *Byunghan Lee, Junghwan Baek, Seunghyun Park, Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1603.09123)
+
+- **2016-03** | Deep Learning in Label-free Cell Classification | *Claire Lifan Chen, Ata Mahjoubfar, Li-Chia Tai, Ian K. Blaby, Allen Huang, Kayvan Reza Niazi & Bahram Jalali* | [Nature Scientific Reports](https://dx.doi.org/10.1038/srep21471)
 
 ### Contribution
 
