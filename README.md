@@ -51,6 +51,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Deep Learning in Label-free Cell Classification | *Claire Lifan Chen, Ata Mahjoubfar, Li-Chia Tai, Ian K. Blaby, Allen Huang, Kayvan Reza Niazi & Bahram Jalali* | [Nature Scientific Reports](https://dx.doi.org/10.1038/srep21471)
 
+- **2016-04** | deepMiRGene: Deep Neural Network based Precursor microRNA Prediction | *Seunghyun Park, Seonwoo Min, Hyun-soo Choi, and Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1605.00017)
+
 ### Contribution
 
 Feel free to send a pull request.
