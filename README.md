@@ -53,6 +53,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-04** | deepMiRGene: Deep Neural Network based Precursor microRNA Prediction | *Seunghyun Park, Seonwoo Min, Hyun-soo Choi, and Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1605.00017)
 
+- **2016-05** | Denoising genome-wide histone ChIP-seq with convolutional neural networks | *Pang Wei Koh, Emma Pierson, Anshul Kundaje* | [Biorxiv](https://dx.doi.org/10.1101/052118))
+
 ### Contribution
 
 Feel free to send a pull request.
