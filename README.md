@@ -33,6 +33,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv643)
 
+- **2016-01** | Learning a hierarchical representation of the yeast transcriptomic machinery using an autoencoder model | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [BMC Bioinformatics](https://dx.doi.org/10.1186/s12859-015-0852-1)
+
 - **2016-01** | PEDLA: predicting enhancers with a deep learning-based algorithmic framework | *Feng Liu, Hao Li, Chao Ren, Xiaochen Bo, Wenjie Shu* | [Biorxiv](https://dx.doi.org/10.1101/036129)
 
 - **2016-01** | TensorFlow: Biology’s Gateway to Deep Learning? | *Ladislav Rampasek, Anna Goldenberg* | [Cell Systems](https://dx.doi.org/10.1016/j.cels.2016.01.009)
