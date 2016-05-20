@@ -59,6 +59,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-05** | Deep Motif: Visualizing Genomic Sequence Classifications | *Jack Lanchantin, Ritambhara Singh, Zeming Lin, Yanjun Qi* | [Arxiv](http://arxiv.org/abs/1605.01133)
 
+- **2016-05** | Deep biomarkers of human aging: Application of deep neural networks to biomarker development | *Evgeny Putin, Polina Mamoshina, Alexander Aliper, Mikhail Korzinkin, Alexey Moskalev, Alexey Kolosov, Alexander Ostrovskiy, Charles Cantor, Jan Vijg, and Alex Zhavoronkov* | [Aging](http://www.impactaging.com/papers/v8/n5/full/100968.html)
+
 ### Contribution
 
 Feel free to send a pull request.
