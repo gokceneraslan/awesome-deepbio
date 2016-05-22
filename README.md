@@ -39,7 +39,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-01** | TensorFlow: Biology’s Gateway to Deep Learning? | *Ladislav Rampasek, Anna Goldenberg* | [Cell Systems](https://dx.doi.org/10.1016/j.cels.2016.01.009)
 
-- **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](http://msystems.asm.org/content/1/1/e00025-15) | [code](https://github.com/greenelab/adage)
+- **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://dx.doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
 
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw074)
 
@@ -55,7 +55,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Deep Learning in Label-free Cell Classification | *Claire Lifan Chen, Ata Mahjoubfar, Li-Chia Tai, Ian K. Blaby, Allen Huang, Kayvan Reza Niazi & Bahram Jalali* | [Nature Scientific Reports](https://dx.doi.org/10.1038/srep21471)
 
-- **2016-04** | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | *Daniel Quang & Xiaohui Xie* | [Nucleic Acids Research](http://nar.oxfordjournals.org/content/early/2016/04/15/nar.gkw226.full) | [code](https://github.com/uci-cbcl/DanQ)
+- **2016-04** | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | *Daniel Quang & Xiaohui Xie* | [Nucleic Acids Research](https://dx.doi.org/10.1093/nar/gkw226) | [code](https://github.com/uci-cbcl/DanQ)
 
 - **2016-04** | deepMiRGene: Deep Neural Network based Precursor microRNA Prediction | *Seunghyun Park, Seonwoo Min, Hyun-soo Choi, and Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1605.00017)
 
