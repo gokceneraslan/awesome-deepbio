@@ -29,7 +29,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-10** | A deep learning framework for modeling structural features of RNA-binding protein targets | *Sai Zhang, Jingtian Zhou, Hailin Hu, Haipeng Gong, Ligong Chen, Chao Cheng, and Jianyang Zeng* | [NAR](https://dx.doi.org/10.1093/nar/gkv1025)
 
-- **2015-10** | Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | *David R. Kelley, Jasper Snoek, John Rinn* | [Biorxiv](https://dx.doi.org/10.1101/028399)
+- **2015-10** | Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | *David R. Kelley, Jasper Snoek, John Rinn* | [Biorxiv](https://dx.doi.org/10.1101/028399) | [code](https://github.com/davek44/Basset)
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv643)
 
@@ -39,6 +39,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-01** | TensorFlow: Biology’s Gateway to Deep Learning? | *Ladislav Rampasek, Anna Goldenberg* | [Cell Systems](https://dx.doi.org/10.1016/j.cels.2016.01.009)
 
+- **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://dx.doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
+
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw074)
 
 - **2016-03** | Genome-Wide Prediction of cis-Regulatory Regions Using Supervised Deep Learning Methods | *Yifeng Li, Wenqiang Shi, Wyeth W Wasserman* | [Biorxiv](https://dx.doi.org/10.1101/041616)
@@ -47,11 +49,13 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Applications of deep learning in biomedicine | *Polina Mamoshina, Armando Vieira, Evgeny Putin, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://dx.doi.org/10.1021/acs.molpharmaceut.5b00982)
 
-- **2016-03** | DeepNano: Deep Recurrent Neural Networks for Base Calling in MinION Nanopore Reads | *Vladimír Boža, Broňa Brejová, Tomáš Vinař* | [Arxiv](http://arxiv.org/abs/1603.09195)
+- **2016-03** | DeepNano: Deep Recurrent Neural Networks for Base Calling in MinION Nanopore Reads | *Vladimír Boža, Broňa Brejová, Tomáš Vinař* | [Arxiv](http://arxiv.org/abs/1603.09195) | [code](https://bitbucket.org/vboza/deepnano)
 
 - **2016-03** | deepTarget: End-to-end Learning Framework for microRNA Target Prediction using Deep Recurrent Neural Networks | *Byunghan Lee, Junghwan Baek, Seunghyun Park, Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1603.09123)
 
 - **2016-03** | Deep Learning in Label-free Cell Classification | *Claire Lifan Chen, Ata Mahjoubfar, Li-Chia Tai, Ian K. Blaby, Allen Huang, Kayvan Reza Niazi & Bahram Jalali* | [Nature Scientific Reports](https://dx.doi.org/10.1038/srep21471)
+
+- **2016-04** | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | *Daniel Quang & Xiaohui Xie* | [Nucleic Acids Research](https://dx.doi.org/10.1093/nar/gkw226) | [code](https://github.com/uci-cbcl/DanQ)
 
 - **2016-04** | deepMiRGene: Deep Neural Network based Precursor microRNA Prediction | *Seunghyun Park, Seonwoo Min, Hyun-soo Choi, and Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1605.00017)
 
