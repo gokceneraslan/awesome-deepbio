@@ -73,6 +73,12 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-05** | DeepCyTOF: Automated Cell Classification of Mass Cytometry Data by Deep Learning and Domain Adaptation | *Huamin Li, Uri Shaham, Yi Yao, Ruth Montgomery, Yuval Kluger* | [Biorxiv](https://dx.doi.org/10.1101/054411)
 
+- **2016-06** | Classifying and segmenting microscopy images with deep multiple instance learning | *Oren Z. Kraus, Jimmy Lei Ba and Brendan J. Frey* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw252)
+
+- **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | *Haoyang Zeng, Matthew D. Edwards, Ge Liu and David K. Gifford*  | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw255)
+
+- **2016-06** | DeepLNC, a long non-coding RNA prediction tool using deep neural network | *Rashmi Tripathi, Sunil Patel, Vandana Kumari, Pavan Chakraborty, Pritish Kumar Varadwaj* | [Network Modeling Analysis in Health Informatics and Bioinformatics](https://dx.doi.org/10.1007/s13721-016-0129-2)
+
 ### Contribution
 
 Feel free to send a pull request.
