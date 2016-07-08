@@ -13,6 +13,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2014-10** | DANN: a deep learning approach for annotating the pathogenicity of genetic variants  | *Daniel Quang, Yifei Chen and Xiaohui Xie* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btu703)
 
+- **2014-11** | Pairwise input neural network for target-ligand interaction prediction | *Caihua Wang, Juan Liu, Fei Luo, Yafang Tan, Zixin Deng, Qian-Nan Hu* | [2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://dx.doi.org/10.1109/BIBM.2014.6999129)
+
 - **2015-01** | The human splicing code reveals new insights into the genetic determinants of disease  | *Hui Y. Xiong, Babak Alipanahi, Leo J. Lee, Hannes Bretschneider, Daniele Merico, Ryan K. C. Yuen, Yimin Hua, Serge Gueroussov, Hamed S. Najafabadi, Timothy R. Hughes, Quaid Morris, Yoseph Barash, Adrian R. Krainer, Nebojsa Jojic, Stephen W. Scherer, Benjamin J. Blencowe, Brendan J. Frey* | [Science](https://dx.doi.org/10.1126/science.1254806)
 
 - **2015-03** | Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters | *Yifeng Li, Chih-Yu Chen, and Wyeth W. Wasserman* | [19th Annual International Conference, RECOMB 2015, Warsaw, Proceedings](https://dx.doi.org/10.1007/978-3-319-16706-0_20)
@@ -27,9 +29,13 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-08** | DeepSEA: Predicting effects of noncoding variants with deep learning–based sequence model | *Jian Zhou & Olga G. Troyanskaya* | [Nature Methods: Short intro](https://dx.doi.org/10.1038/nmeth.3604) & [Nature Methods](https://dx.doi.org/10.1038/nmeth.3547)
 
+- **2015-08** | Integrative Data Analysis of Multi-Platform Cancer Data with a Multimodal Deep Learning Approach | *Muxuan Liang, Zhizhong Li, Ting Chen, Jianyang Zeng* | [IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)](http://dx.doi.org/10.1109/TCBB.2014.2377729)
+
 - **2015-10** | A deep learning framework for modeling structural features of RNA-binding protein targets | *Sai Zhang, Jingtian Zhou, Hailin Hu, Haipeng Gong, Ligong Chen, Chao Cheng, and Jianyang Zeng* | [NAR](https://dx.doi.org/10.1093/nar/gkv1025)
 
 - **2015-10** | Basset: Learning the regulatory code of the accessible genome with deep convolutional neural networks | *David R. Kelley, Jasper Snoek, John Rinn* | [Biorxiv](https://dx.doi.org/10.1101/028399) | [code](https://github.com/davek44/Basset)
+
+- **2015-10** | Deep Learning for Drug-Induced Liver Injury | *Youjun Xu, Ziwei Dai, Fangjin Chen, Shuaishi Gao, Jianfeng Pei, and Luhua Lai* | [ASC Journal of Chemical Information and Modeling](https://dx.doi.org/10.1021/acs.jcim.5b00238)
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv643)
 
@@ -40,6 +46,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-01** | TensorFlow: Biology’s Gateway to Deep Learning? | *Ladislav Rampasek, Anna Goldenberg* | [Cell Systems](https://dx.doi.org/10.1016/j.cels.2016.01.009)
 
 - **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://dx.doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
+
+- **2016-01** | Deep Learning in Drug Discovery | *Erik Gawehn, Jan A. Hiss and Gisbert Schneider* | [Molecular Informatics](https://dx.doi.org/DOI: 10.1002/minf.201501008)
 
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw074)
 
@@ -78,6 +86,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | *Haoyang Zeng, Matthew D. Edwards, Ge Liu and David K. Gifford*  | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw255)
 
 - **2016-06** | DeepLNC, a long non-coding RNA prediction tool using deep neural network | *Rashmi Tripathi, Sunil Patel, Vandana Kumari, Pavan Chakraborty, Pritish Kumar Varadwaj* | [Network Modeling Analysis in Health Informatics and Bioinformatics](https://dx.doi.org/10.1007/s13721-016-0129-2)
+
+- **2016-06** | Virtual Screening: A Challenge for Deep Learning | *Javier Pérez-Sianes, Horacio Pérez-Sánchez, Fernando Díaz* | [10th International Conference on Practical Applications of Computational Biology & Bioinformatics](https://dx.doi.org/10.1007/978-3-319-40126-3_2)
 
 ### Contribution
 
