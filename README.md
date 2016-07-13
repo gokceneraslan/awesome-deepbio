@@ -91,6 +91,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-06** | Virtual Screening: A Challenge for Deep Learning | *Javier Pérez-Sianes, Horacio Pérez-Sánchez, Fernando Díaz* | [10th International Conference on Practical Applications of Computational Biology & Bioinformatics](https://dx.doi.org/10.1007/978-3-319-40126-3_2)
 
+- **2016-07** | DeepChrome: Deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin, Gabriel Robins, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1607.02078)
+
 ### Contribution
 
 Feel free to send a pull request.
