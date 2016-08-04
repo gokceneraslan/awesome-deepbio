@@ -93,6 +93,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-07** | DeepChrome: Deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin, Gabriel Robins, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1607.02078)
 
+- **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular Systems Biology](http://doi.org/10.15252/msb.20156651)
+
 ### Contribution
 
 Feel free to send a pull request.
