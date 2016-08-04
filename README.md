@@ -52,6 +52,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-01** | Deep Learning in Drug Discovery | *Erik Gawehn, Jan A. Hiss and Gisbert Schneider* | [Molecular Informatics](https://dx.doi.org/10.1002/minf.201501008)
 
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw074)
+- 
+- **2016-02** | Semi-Supervised Learning of the Electronic Health Record for Phenotype Stratification | *Brett Beaulieu-Jones, Casey Greene* | [bioRxiv](http://dx.doi.org/10.1101/039800)
 
 - **2016-03** | Genome-Wide Prediction of cis-Regulatory Regions Using Supervised Deep Learning Methods | *Yifeng Li, Wenqiang Shi, Wyeth W Wasserman* | [Biorxiv](https://dx.doi.org/10.1101/041616)
 
