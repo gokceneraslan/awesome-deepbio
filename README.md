@@ -77,6 +77,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-05** | Deep Motif: Visualizing Genomic Sequence Classifications | *Jack Lanchantin, Ritambhara Singh, Zeming Lin, Yanjun Qi* | [Arxiv](http://arxiv.org/abs/1605.01133)
 
+- **2016-05** | Not Just a Black Box: Learning Important Features Through Propagating Activation Differences | *Avanti Shrikumar, Peyton Greenside, Anna Shcherbina, Anshul Kundaje* | [Arxiv](https://arxiv.org/abs/1605.01713)
+
 - **2016-05** | Deep biomarkers of human aging: Application of deep neural networks to biomarker development | *Evgeny Putin, Polina Mamoshina, Alexander Aliper, Mikhail Korzinkin, Alexey Moskalev, Alexey Kolosov, Alexander Ostrovskiy, Charles Cantor, Jan Vijg, and Alex Zhavoronkov* | [Aging](http://www.impactaging.com/papers/v8/n5/full/100968.html)
 
 - **2016-05** | Deep learning applications for predicting pharmacological properties of drugs and drug repurposing using transcriptomic data | *Alexander Aliper, Sergey Plis, Artem Artemov, Alvaro Ulloa, Polina Mamoshina, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://doi.org/10.1021/acs.molpharmaceut.6b00248)
