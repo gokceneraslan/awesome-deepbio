@@ -2,6 +2,8 @@
 
 A curated list of awesome deep learning applications in the field of computational biology
 
+- **2012-03** |  A unified multitask architecture for predicting local protein properties | * Yanjun Qi, Merja Oja, Jason Weston, William Stafford Noble * [PLoS ONE] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032235)
+
 
 - **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi* [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
 
@@ -54,6 +56,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw074)
 
 - **2016-02** | Semi-Supervised Learning of the Electronic Health Record for Phenotype Stratification | *Brett Beaulieu-Jones, Casey Greene* | [bioRxiv](https://doi.org/10.1101/039800)
+
+- **2016-02** | MUST-CNN: A Multilayer Shift-and-Stitch Deep Convolutional Architecture for Sequence-based Protein Structure Prediction" | Zeming Lin, Jack Lanchantin, Yanjun Qi | the 30th AAAI Conference on Artificial Intelligence  [(AAAI-2016)](https://arxiv.org/abs/1605.03004)   
 
 - **2016-03** | Genome-Wide Prediction of cis-Regulatory Regions Using Supervised Deep Learning Methods | *Yifeng Li, Wenqiang Shi, Wyeth W Wasserman* | [Biorxiv](https://doi.org/10.1101/041616)
 
