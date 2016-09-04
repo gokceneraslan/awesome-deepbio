@@ -109,6 +109,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-08** | Deep GDashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Jack Lanchantin, Ritambhara Singh, Beilun Wang, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1608.03644v2)
 
+- **2016-08** | Modeling translation elongation dynamics by deep learning reveals new insights into the landscape of ribosome stalling | *Sai Zhang, Hailin Hu, Jingtian Zhou, Xuan He and Jianyang Zeng* | [bioRxiv](http://dx.doi.org/10.1101/067108)
+
 ### Contribution
 
 Feel free to send a pull request.
