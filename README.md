@@ -2,7 +2,9 @@
 
 A curated list of awesome deep learning applications in the field of computational biology
 
-- **2012-03** |  A unified multitask architecture for predicting local protein properties | * Yanjun Qi, Merja Oja, Jason Weston, William Stafford Noble * [PLoS ONE] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032235)
+- **2012-10** | Predicting protein residue–residue contacts using deep networks and boosting | *Jesse Eickholt and Jianlin Cheng* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts598)
+
+- **2012-03** |  A unified multitask architecture for predicting local protein properties | *Yanjun Qi, Merja Oja, Jason Weston, William Stafford Noble* |  [PLoS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032235)
 
 
 - **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi* [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
@@ -43,8 +45,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btv643)
 
-- **2015-11** | Recurrent Neural Network Based Hybrid Model of Gene Regulatory Network | *Khalid Raza, Mansaf Alam* | [Arxiv](https://arxiv.org/abs/1408.5405v2)
-
 - **2016-01** | Learning a hierarchical representation of the yeast transcriptomic machinery using an autoencoder model | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [BMC Bioinformatics](https://doi.org/10.1186/s12859-015-0852-1)
 
 - **2016-01** | PEDLA: predicting enhancers with a deep learning-based algorithmic framework | *Feng Liu, Hao Li, Chao Ren, Xiaochen Bo, Wenjie Shu* | [Biorxiv](https://doi.org/10.1101/036129)
@@ -59,7 +59,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-02** | Semi-Supervised Learning of the Electronic Health Record for Phenotype Stratification | *Brett Beaulieu-Jones, Casey Greene* | [bioRxiv](https://doi.org/10.1101/039800)
 
-- **2016-02** | MUST-CNN: A Multilayer Shift-and-Stitch Deep Convolutional Architecture for Sequence-based Protein Structure Prediction" | Zeming Lin, Jack Lanchantin, Yanjun Qi | the 30th AAAI Conference on Artificial Intelligence  [(AAAI-2016)](https://arxiv.org/abs/1605.03004)   
+- **2016-02** | MUST-CNN: A Multilayer Shift-and-Stitch Deep Convolutional Architecture for Sequence-based Protein Structure Prediction" | *Zeming Lin, Jack Lanchantin, Yanjun Qi* |  [(AAAI-2016)](https://arxiv.org/abs/1605.03004)   
 
 - **2016-03** | Genome-Wide Prediction of cis-Regulatory Regions Using Supervised Deep Learning Methods | *Yifeng Li, Wenqiang Shi, Wyeth W Wasserman* | [Biorxiv](https://doi.org/10.1101/041616)
 
@@ -93,8 +93,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-05** | Deep Machine Learning provides state-of-the-art performance in image-based plant phenotyping | *Michael P. Pound, Alexandra J. Burgess, Michael H. Wilson, Jonathan A. Atkinson, Marcus Griffiths, Aaron S. Jackson, Adrian Bulat, Yorgos Tzimiropoulos, Darren M. Wells, Erik H. Murchie, Tony P. Pridmore, Andrew P. French* | [Biorxiv](https://doi.org/10.1101/053033)
 
-- **2016-05** | Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures | *Laura Deming, Sasha Targ, Nate Sauder, Diogo Almeida, Chun Jimmie Ye* | [Arxiv](https://arxiv.org/abs/1605.07156v1)
-
 - **2016-05** | DeepCyTOF: Automated Cell Classification of Mass Cytometry Data by Deep Learning and Domain Adaptation | *Huamin Li, Uri Shaham, Yi Yao, Ruth Montgomery, Yuval Kluger* | [Biorxiv](https://doi.org/10.1101/054411)
 
 - **2016-06** | Classifying and segmenting microscopy images with deep multiple instance learning | *Oren Z. Kraus, Jimmy Lei Ba and Brendan J. Frey* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw252)
@@ -108,12 +106,6 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-07** | DeepChrome: Deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin, Gabriel Robins, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1607.02078)
 
 - **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular Systems Biology](https://doi.org/10.15252/msb.20156651)
-
-- **2016-08** | Deep Artificial Neural Networks and Neuromorphic Chips for Big Data Analysis: Pharmaceutical and Bioinformatics Applications | *Lucas Antón Pastur-Romay, Francisco Cedrón, Alejandro Pazos and Ana Belén Porto-Pazos* | [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms17081313)
-
-- **2016-08** | Deep GDashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Jack Lanchantin, Ritambhara Singh, Beilun Wang, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1608.03644v2)
-
-- **2016-08** | Modeling translation elongation dynamics by deep learning reveals new insights into the landscape of ribosome stalling | *Sai Zhang, Hailin Hu, Jingtian Zhou, Xuan He and Jianyang Zeng* | [bioRxiv](http://dx.doi.org/10.1101/067108)
 
 ### Contribution
 
