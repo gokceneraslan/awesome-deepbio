@@ -43,6 +43,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-11** | Recurrent Neural Network Based Hybrid Model of Gene Regulatory Network | *Khalid Raza, Mansaf Alam* | [Arxiv](https://arxiv.org/abs/1408.5405v2)
 
+- **2015-11** | Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics | *Ehsaneddin Asgari, Mohammad R. K. Mofrad* | [PloS one](http://dx.doi.org/10.1371/journal.pone.0141287)
+
 - **2016-01** | Learning a hierarchical representation of the yeast transcriptomic machinery using an autoencoder model | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [BMC Bioinformatics](https://doi.org/10.1186/s12859-015-0852-1)
 
 - **2016-01** | PEDLA: predicting enhancers with a deep learning-based algorithmic framework | *Feng Liu, Hao Li, Chao Ren, Xiaochen Bo, Wenjie Shu* | [Biorxiv](https://doi.org/10.1101/036129)
@@ -110,6 +112,10 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-08** | Deep GDashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Jack Lanchantin, Ritambhara Singh, Beilun Wang, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1608.03644v2)
 
 - **2016-08** | Modeling translation elongation dynamics by deep learning reveals new insights into the landscape of ribosome stalling | *Sai Zhang, Hailin Hu, Jingtian Zhou, Xuan He and Jianyang Zeng* | [bioRxiv](http://dx.doi.org/10.1101/067108)
+
+- **2016-08** | DeepWAS: Directly integrating regulatory information into GWAS using deep learning supports master regulator MEF2C as risk factor for major depressive disorder | *Gökcen Eraslan, Janine Arloth, Jade Martins, Stella Iurato, Darina Czamara, Elisabeth B. Binder, Fabian J. Theis, Nikola S. Mueller* | [bioRxiv](https://dx.doi.org/10.1101/069096)
+
+- **2016-09** | The Next Era: Deep Learning in Pharmaceutical Research | *Sean Ekins* | [Pharmaceutical Research](https://dx.doi.org/10.1007/s11095-016-2029-7)
 
 ### Contribution
 
