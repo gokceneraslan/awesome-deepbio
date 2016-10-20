@@ -71,6 +71,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-03** | Deep Learning in Label-free Cell Classification | *Claire Lifan Chen, Ata Mahjoubfar, Li-Chia Tai, Ian K. Blaby, Allen Huang, Kayvan Reza Niazi & Bahram Jalali* | [Nature Scientific Reports](https://doi.org/10.1038/srep21471)
 
+- **2016-04** | Accurate classification of protein subcellular localization from high throughput microscopy images using deep learning | *Tanel Pärnamaa, Leopold Parts* | [bioRxiv](http://dx.doi.org/10.1101/050757)
+
 - **2016-04** | DanQ: a hybrid convolutional and recurrent deep neural network for quantifying the function of DNA sequences | *Daniel Quang & Xiaohui Xie* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkw226) | [code](https://github.com/uci-cbcl/DanQ)
 
 - **2016-04** | deepMiRGene: Deep Neural Network based Precursor microRNA Prediction | *Seunghyun Park, Seonwoo Min, Hyun-soo Choi, and Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1605.00017)
