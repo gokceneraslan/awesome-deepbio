@@ -117,6 +117,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-09** | The Next Era: Deep Learning in Pharmaceutical Research | *Sean Ekins* | [Pharmaceutical Research](https://dx.doi.org/10.1007/s11095-016-2029-7)
 
+- **2016-10** | FIDDLE: An integrative deep learning framework for functional genomic data inference | *Umut Eser* | [bioRxiv](http://dx.doi.org/10.1101/081380) 
+
 ### Contribution
 
 Feel free to send a pull request.
