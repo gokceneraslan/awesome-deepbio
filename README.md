@@ -79,6 +79,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-04** | Microscopy cell counting and detection with fully convolutional regression networks | *Weidi Xie, J. Alison Noble and Andrew Zisserman* | [Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization](https://doi.org/10.1080/21681163.2016.1149104)
 
+- **2016-04** | Protein Secondary Structure Prediction Using Cascaded Convolutional and Recurrent Neural Networks | *Zhen Li and Yizhou Yu* | [Arxiv](https://arxiv.org/abs/1604.07176)
+
 - **2016-05** | Denoising genome-wide histone ChIP-seq with convolutional neural networks | *Pang Wei Koh, Emma Pierson, Anshul Kundaje* | [Biorxiv](https://doi.org/10.1101/052118)
 
 - **2016-05** | Deep Motif: Visualizing Genomic Sequence Classifications | *Jack Lanchantin, Ritambhara Singh, Zeming Lin, Yanjun Qi* | [Arxiv](http://arxiv.org/abs/1605.01133)
@@ -119,9 +121,11 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-09** | The Next Era: Deep Learning in Pharmaceutical Research | *Sean Ekins* | [Pharmaceutical Research](https://dx.doi.org/10.1007/s11095-016-2029-7)
 
-- **2016-10** | FIDDLE: An integrative deep learning framework for functional genomic data inference | *Umut Eser, L. Stirling Churchman* | [bioRxiv](http://dx.doi.org/10.1101/081380) 
+- **2016-09** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [Arxiv](https://arxiv.org/abs/1609.00680)
 
-- **2016-10** | Deep Learning for Imaging Flow Cytometry: Cell Cycle Analysis of Jurkat Cells | *Philipp Eulenberg, Niklas Koehler, Thomas Blasi, Andrew Filby, Anne E. Carpenter, Paul Rees, Fabian J. Theis, F. Alexander Wolf* | [bioRxiv](http://http://dx.doi.org/10.1101/081364) 
+- **2016-10** | FIDDLE: An integrative deep learning framework for functional genomic data inference | *Umut Eser, L. Stirling Churchman* | [bioRxiv](http://dx.doi.org/10.1101/081380)
+
+- **2016-10** | Deep Learning for Imaging Flow Cytometry: Cell Cycle Analysis of Jurkat Cells | *Philipp Eulenberg, Niklas Koehler, Thomas Blasi, Andrew Filby, Anne E. Carpenter, Paul Rees, Fabian J. Theis, F. Alexander Wolf* | [bioRxiv](http://http://dx.doi.org/10.1101/081364)
 
 ### Contribution
 
