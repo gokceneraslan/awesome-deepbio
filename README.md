@@ -137,7 +137,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-11** | DeeperBind: Enhancing Prediction of Sequence Specificities of DNA Binding Proteins | *Hamid Reza Hassanzadeh, May D. Wang* | [Arxiv](https://arxiv.org/abs/1611.05777)
 
-
+- **2016-12** | Creating a universal SNP and small indel variant caller with deep neural networks | *Ryan Poplin, Dan Newburger, Jojo Dijamco, Nam Nguyen, Dion Loy, Sam S. Gross, Cory Y. McLean, Mark A. DePristo* | [Arxiv](http://biorxiv.org/content/early/2016/12/19/092890)
 
 ### Contribution
 
