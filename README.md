@@ -135,6 +135,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-11** | Low Data Drug Discovery with One-shot Learning | *Han Altae-Tran, Bharath Ramsundar, Aneesh S. Pappu, Vijay Pande* | [Arxiv](https://arxiv.org/abs/1611.03199)
 
+- **2016-11** | Diet Networks: Thin Parameters for Fat Genomic | *Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Marie-Pierre Dubé, Julie G. Hussin, Yoshua Bengio* | [Arxiv](https://arxiv.org/abs/1611.09340)
+
 - **2016-11** | DeeperBind: Enhancing Prediction of Sequence Specificities of DNA Binding Proteins | *Hamid Reza Hassanzadeh, May D. Wang* | [Arxiv](https://arxiv.org/abs/1611.05777)
 
 - **2016-12** | Creating a universal SNP and small indel variant caller with deep neural networks | *Ryan Poplin, Dan Newburger, Jojo Dijamco, Nam Nguyen, Dion Loy, Sam S. Gross, Cory Y. McLean, Mark A. DePristo* | [Arxiv](http://biorxiv.org/content/early/2016/12/19/092890)
