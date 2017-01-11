@@ -139,9 +139,29 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-11** | DeeperBind: Enhancing Prediction of Sequence Specificities of DNA Binding Proteins | *Hamid Reza Hassanzadeh, May D. Wang* | [Arxiv](https://arxiv.org/abs/1611.05777)
 
-- **2016-12** | Creating a universal SNP and small indel variant caller with deep neural networks | *Ryan Poplin, Dan Newburger, Jojo Dijamco, Nam Nguyen, Dion Loy, Sam S. Gross, Cory Y. McLean, Mark A. DePristo* | [bioRxiv](http://biorxiv.org/content/early/2016/12/19/092890)
+- **2016-11** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [bioRxiv](https://doi.org/10.1101/073239)
+
+- **2016-11** | Deep learning with feature embedding for compound-protein interaction prediction | *Fangping Wan, Jianyang Zeng* | [bioRxiv](https://doi.org/10.1101/086033)
+
+- **2016-12** | Creating a universal SNP and small indel variant caller with deep neural networks | *Ryan Poplin, Dan Newburger, Jojo Dijamco, Nam Nguyen, Dion Loy, Sam S. Gross, Cory Y. McLean, Mark A. DePristo* | [bioRxiv](https://doi.org/10.1101/092890)
 
 - **2016-12** | DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning | *Rajendra Rana Bhat, Vivek Viswanath, Xiaolin Li* | [Arxiv](http://arxiv.org/abs/1612.03211)
+
+- **2016-12** | Cox-nnet: an artificial neural network Cox regression for prognosis prediction | *Travers Ching, Xun Zhu, Lana Garmire* | [bioRxiv](https://doi.org/10.1101/093021)
+
+- **2016-12** | Deep learning is effective for the classification of OCT images of normal versus Age-related Macular Degeneration | *Cecilia S Lee, Doug M Baughman, Aaron Y Lee* | [bioRxiv](https://doi.org/10.1101/094276)
+
+- **2016-12** | Partitioned learning of deep Boltzmann machines for SNP data | *Moritz Hess, Stefan Lenz, Tamara Blaette, Lars Bullinger, Harald Binder* | [bioRxiv](https://doi.org/10.1101/095638)
+
+- **2016-12** | DeepAD: Alzheimer′s Disease Classification via Deep Convolutional Neural Networks using MRI and fMRI | *Saman Sarraf, John Anderson, Ghassem Tofighi, for the Alzheimer's Disease Neuroimaging Initiativ* | [bioRxiv](https://doi.org/10.1101/070441)
+
+- **2016-12** | Training Genotype Callers with Neural Networks | *Rémi Torracinta, Fabien Campagne* | [bioRxiv](https://doi.org/10.1101/097469)
+
+- **2016-12** | EP-DNN: A Deep Neural Network-Based Global Enhancer Prediction Algorithm | *Seong Gon Kim, Mrudul Harwani, Ananth Grama, Somali Chaterji* | [Nature Scientific Reports](https://doi.org/10.1038/srep38433)
+
+- **2016-12** | EnhancerPred: a predictor for discovering enhancers based on the combination and selection of multiple features | *Cangzhi Jia, Wenying He* | [Nature Scientific Reports](https://doi.org/10.1038/srep38741)
+
+- **2017-01** | HLA class I binding prediction via convolutional neural networks | *Yeeleng Scott Vang, Xiaohui Xie* | [bioRxiv](https://doi.org/10.1101/099358)
 
 ### Contribution
 
