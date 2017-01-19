@@ -131,6 +131,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-10** | Leveraging uncertainty information from deep neural networks for disease detection | *Christian Leibig, Vaneeda Allken, Philipp Berens, Siegfried Wahl* | [bioRxiv](http://dx.doi.org/10.1101/084210)
 
+- **2016-11** | Predicting Enhancer-Promoter Interaction from Genomic Sequence with Deep Neural Networks | *Shashank Singh, Yang Yang, Barnabas Poczos, Jian Ma* | [bioRxiv](https://doi.org/10.1101/085241)
+
 - **2016-11** | RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach | *Xiaoyong Pan, Hong-Bin Shen* | [bioRxiv](http://dx.doi.org/10.1101/085191)
 
 - **2016-11** | Low Data Drug Discovery with One-shot Learning | *Han Altae-Tran, Bharath Ramsundar, Aneesh S. Pappu, Vijay Pande* | [Arxiv](https://arxiv.org/abs/1611.03199)
