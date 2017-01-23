@@ -179,8 +179,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | A predictive model of gene expression using a deep learning framework | *Xie, Rui, Andrew Quitadamo, Jianlin Cheng, and Xinghua Shi* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822599)
 
-- **2016-12** | A predictive model of gene expression using a deep learning framework | *Xie, Rui, Andrew Quitadamo, Jianlin Cheng, and Xinghua Shi* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822599)
-
 - **2016-12** | Deep convolutional neural network for survival analysis with pathological images | *Zhu, Xinliang, Jiawen Yao, and Junzhou Huang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822579)
 
 - **2016-12** | Dependency-based convolutional neural network for drug-drug interaction extraction | *Liu, Shengyu, Kai Chen, Qingcai Chen, and Buzhou Tang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822671)
