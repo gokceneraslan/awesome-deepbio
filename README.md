@@ -189,6 +189,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | A high-precision shallow Convolutional Neural Network based strategy for the detection of Genomic Deletions | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822793)
 
+- **2016-12** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [bioRxiv](https://doi.org/10.1101/073809)
+
 - **2017-01** | A Deep Learning Approach for Cancer Detection and Relevant Gene Identification | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0022)
 
 - **2017-01** | Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Lanchantin, Jack, Ritambhara Singh, Beilun Wang, and Yanjun Qi* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0025)
