@@ -163,6 +163,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | EnhancerPred: a predictor for discovering enhancers based on the combination and selection of multiple features | *Cangzhi Jia, Wenying He* | [Nature Scientific Reports](https://doi.org/10.1038/srep38741)
 
+- **2016-12** | DeepEnhancer: Predicting enhancers by convolutional neural networks | *Min, Xu, Ning Chen, Ting Chen, and Rui Jiang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822593)
+
 - **2017-01** | HLA class I binding prediction via convolutional neural networks | *Yeeleng Scott Vang, Xiaohui Xie* | [bioRxiv](https://doi.org/10.1101/099358)
 
 ### Contribution
