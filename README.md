@@ -131,6 +131,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-10** | Leveraging uncertainty information from deep neural networks for disease detection | *Christian Leibig, Vaneeda Allken, Philipp Berens, Siegfried Wahl* | [bioRxiv](http://dx.doi.org/10.1101/084210)
 
+- **2016-11** | Predicting Enhancer-Promoter Interaction from Genomic Sequence with Deep Neural Networks | *Shashank Singh, Yang Yang, Barnabas Poczos, Jian Ma* | [bioRxiv](https://doi.org/10.1101/085241)
+
 - **2016-11** | RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach | *Xiaoyong Pan, Hong-Bin Shen* | [bioRxiv](http://dx.doi.org/10.1101/085191)
 
 - **2016-11** | Low Data Drug Discovery with One-shot Learning | *Han Altae-Tran, Bharath Ramsundar, Aneesh S. Pappu, Vijay Pande* | [Arxiv](https://arxiv.org/abs/1611.03199)
@@ -160,6 +162,40 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-12** | EP-DNN: A Deep Neural Network-Based Global Enhancer Prediction Algorithm | *Seong Gon Kim, Mrudul Harwani, Ananth Grama, Somali Chaterji* | [Nature Scientific Reports](https://doi.org/10.1038/srep38433)
 
 - **2016-12** | EnhancerPred: a predictor for discovering enhancers based on the combination and selection of multiple features | *Cangzhi Jia, Wenying He* | [Nature Scientific Reports](https://doi.org/10.1038/srep38741)
+
+- **2016-12** | DeepEnhancer: Predicting enhancers by convolutional neural networks | *Min, Xu, Ning Chen, Ting Chen, and Rui Jiang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822593)
+
+- **2016-12** | DeepSplice: Deep classification of novel splice junctions revealed by RNA-seq | *Zhang, Yi, Xinan Liu, James N. MacLeod, and Jinze Liu* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822541)
+
+- **2016-12** | Deep convolutional neural networks for detecting secondary structures in protein density maps from cryo-electron microscopy | *Li, Rongjian, Dong Si, Tao Zeng, Shuiwang Ji, and Jing He* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822490)
+
+- **2016-12** | Towards recognition of protein function based on its structure using deep convolutional networks | *Tavanaei, Amirhossein, Anthony S. Maida, Arun Kaniymattam, and Rasiah Loganantharaj* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822509)
+
+- **2016-12** | Emotion recognition from multi-channel EEG data through Convolutional Recurrent Neural Network | *Li, Xiang, Dawei Song, Peng Zhang, Guangliang Yu, Yuexian Hou, and Bin Hu* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822545)
+
+- **2016-12** | Coarse-to-Fine Stacked Fully Convolutional Nets for lymph node segmentation in ultrasound images | *Zhang, Yizhe, Michael TC Ying, Lin Yang, Anil T. Ahuja, and Danny Z. Chen* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822557)
+
+- **2016-12** | CNNsite: Prediction of DNA-binding residues in proteins using Convolutional Neural Network with sequence features | *Zhou, Jiyun, Qin Lu, Ruifeng Xu, Lin Gui, and Hongpeng Wang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822496)
+
+- **2016-12** | A predictive model of gene expression using a deep learning framework | *Xie, Rui, Andrew Quitadamo, Jianlin Cheng, and Xinghua Shi* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822599)
+
+- **2016-12** | Deep convolutional neural network for survival analysis with pathological images | *Zhu, Xinliang, Jiawen Yao, and Junzhou Huang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822579)
+
+- **2016-12** | Dependency-based convolutional neural network for drug-drug interaction extraction | *Liu, Shengyu, Kai Chen, Qingcai Chen, and Buzhou Tang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822671)
+
+- **2016-12** | Pervasive EEG diagnosis of depression using Deep Belief Network with three-electrodes EEG collector | *Cai, Hanshu, Xiaocong Sha, Xue Han, Shixin Wei, and Bin Hu* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822696)
+
+- **2016-12** | Cardiac left ventricular volumes prediction method based on atlas location and deep learning | *Luo, Gongning, Suyu Dong, Kuanquan Wang, and Henggui Zhang* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822759)
+
+- **2016-12** | A high-precision shallow Convolutional Neural Network based strategy for the detection of Genomic Deletions | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822793)
+
+- **2016-12** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [bioRxiv](https://doi.org/10.1101/073809)
+
+- **2016-12** | The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology | *Kadurin, Artur, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanhaelen, Kuzma Khrabrov, and Alex Zhavoronkov* | [Oncotarget](https://doi.org/10.18632/oncotarget.14073)
+
+- **2017-01** | A Deep Learning Approach for Cancer Detection and Relevant Gene Identification | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0022)
+
+- **2017-01** | Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Lanchantin, Jack, Ritambhara Singh, Beilun Wang, and Yanjun Qi* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0025)
 
 - **2017-01** | HLA class I binding prediction via convolutional neural networks | *Yeeleng Scott Vang, Xiaohui Xie* | [bioRxiv](https://doi.org/10.1101/099358)
 
