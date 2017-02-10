@@ -39,13 +39,13 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-01** | TensorFlow: Biology’s Gateway to Deep Learning? | *Ladislav Rampasek, Anna Goldenberg* | [Cell Systems](https://dx.doi.org/10.1016/j.cels.2016.01.009)
 
+- **2016-01** | Convolutional neural network architectures for predicting DNA–protein binding | * Haoyang Zeng, Matthew D. Edwards, Ge Liu, David K. Gifford* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/12/i121/2240609/Convolutional-neural-network-architectures-for) | [code](http://cnn.csail.mit.edu)
+
 - **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://dx.doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
 
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btw074)
 
 - **2016-03** | Genome-Wide Prediction of cis-Regulatory Regions Using Supervised Deep Learning Methods | *Yifeng Li, Wenqiang Shi, Wyeth W Wasserman* | [Biorxiv](https://dx.doi.org/10.1101/041616)
-
-- **2016-03** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Arxiv](http://arxiv.org/abs/1603.06430)
 
 - **2016-03** | Applications of deep learning in biomedicine | *Polina Mamoshina, Armando Vieira, Evgeny Putin, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://dx.doi.org/10.1021/acs.molpharmaceut.5b00982)
 
@@ -72,6 +72,18 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-05** | Deep Machine Learning provides state-of-the-art performance in image-based plant phenotyping | *Michael P. Pound, Alexandra J. Burgess, Michael H. Wilson, Jonathan A. Atkinson, Marcus Griffiths, Aaron S. Jackson, Adrian Bulat, Yorgos Tzimiropoulos, Darren M. Wells, Erik H. Murchie, Tony P. Pridmore, Andrew P. French* | [Biorxiv](https://dx.doi.org/10.1101/053033)
 
 - **2016-05** | DeepCyTOF: Automated Cell Classification of Mass Cytometry Data by Deep Learning and Domain Adaptation | *Huamin Li, Uri Shaham, Yi Yao, Ruth Montgomery, Yuval Kluger* | [Biorxiv](https://dx.doi.org/10.1101/054411)
+
+- **2016-07** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbw068/2562808/Deep-learning-in-bioinformatics)
+
+- **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular systems biology](http://msb.embopress.org/content/12/7/878)
+
+- **2016-08** | DeepChrome: deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin,  Gabriel Robins,  Yanjun Qi* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/17/i639/2450757/DeepChrome-deep-learning-for-predicting-gene)
+
+- **2017-01** | Understanding sequence conservation with deep learning | *Yi Li, Daniel Quang, Xiaohui Xie* | [Biorxiv](http://biorxiv.org/content/early/2017/01/28/103929)
+
+- **2017-01** | Learning the Structural Vocabulary of a Network | *Saket Navlakha* | [Neural Computation](http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00924#.WJ2iQkaQn6A)
+
+- **2017-01** | Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphisms | *Sierra S. Nishizaki, Alan P. Boyle* | [Trends in Genetics](http://www.sciencedirect.com/science/article/pii/S0168952516301470)
 
 ### Contribution
 
