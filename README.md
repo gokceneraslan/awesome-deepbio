@@ -201,7 +201,10 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | HLA class I binding prediction via convolutional neural networks | *Yeeleng Scott Vang, Xiaohui Xie* | [bioRxiv](https://doi.org/10.1101/099358)
 
+- **2017-01** | DeadNet: Identifying Phototoxicity from Label-free Microscopy Images of Cells using Deep ConvNets | *David Richmond, Anna Payne-Tobin Jost, Talley Lambert, Jennifer Waters, Hunter Elliott* | [arXiv](https://arxiv.org/abs/1701.06109)
+
 - **2017-01** | Dermatologist-level classification of skin cancer with deep neural networks | *Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun* | [Nature](https://doi.org/10.1038/nature21056)
+
 
 ### Contribution
 
