@@ -111,9 +111,11 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-06** | Virtual Screening: A Challenge for Deep Learning | *Javier Pérez-Sianes, Horacio Pérez-Sánchez, Fernando Díaz* | [10th International Conference on Practical Applications of Computational Biology & Bioinformatics](https://doi.org/10.1007/978-3-319-40126-3_2)
 
-- **2016-07** | DeepChrome: Deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin, Gabriel Robins, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1607.02078)
-
 - **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular Systems Biology](https://doi.org/10.15252/msb.20156651)
+
+- **2016-07** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
+
+- **2016-08** | DeepChrome: deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin,  Gabriel Robins,  Yanjun Qi* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw427)
 
 - **2016-08** | Deep Artificial Neural Networks and Neuromorphic Chips for Big Data Analysis: Pharmaceutical and Bioinformatics Applications | *Lucas Antón Pastur-Romay, Francisco Cedrón, Alejandro Pazos and Ana Belén Porto-Pazos* | [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms17081313)
 
@@ -209,17 +211,11 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | Dermatologist-level classification of skin cancer with deep neural networks | *Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun* | [Nature](https://doi.org/10.1038/nature21056)
 
-- **2016-07** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbw068/2562808/Deep-learning-in-bioinformatics)
+- **2017-01** | Understanding sequence conservation with deep learning | *Yi Li, Daniel Quang, Xiaohui Xie* | [Biorxiv](https://doi.org/10.1101/103929)
 
-- **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular systems biology](http://msb.embopress.org/content/12/7/878)
+- **2017-01** | Learning the Structural Vocabulary of a Network | *Saket Navlakha* | [Neural Computation](https://doi.org/10.1162/NECO_a_00924)
 
-- **2016-08** | DeepChrome: deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin,  Gabriel Robins,  Yanjun Qi* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/17/i639/2450757/DeepChrome-deep-learning-for-predicting-gene)
-
-- **2017-01** | Understanding sequence conservation with deep learning | *Yi Li, Daniel Quang, Xiaohui Xie* | [Biorxiv](http://biorxiv.org/content/early/2017/01/28/103929)
-
-- **2017-01** | Learning the Structural Vocabulary of a Network | *Saket Navlakha* | [Neural Computation](http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00924#.WJ2iQkaQn6A)
-
-- **2017-01** | Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphisms | *Sierra S. Nishizaki, Alan P. Boyle* | [Trends in Genetics](http://www.sciencedirect.com/science/article/pii/S0168952516301470)
+- **2017-01** | Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphisms | *Sierra S. Nishizaki, Alan P. Boyle* | [Trends in Genetics](http://dx.doi.org/10.1016/j.tig.2016.10.008)
 
 ### Contribution
 
