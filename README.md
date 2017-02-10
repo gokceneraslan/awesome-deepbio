@@ -193,6 +193,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology | *Kadurin, Artur, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanhaelen, Kuzma Khrabrov, and Alex Zhavoronkov* | [Oncotarget](https://doi.org/10.18632/oncotarget.14073)
 
+- **2016-12** | Medical Image Synthesis with Context-Aware Generative Adversarial Networks | *Dong Nie, Roger Trullo, Caroline Petitjean, Su Ruan, Dinggang Shen* | [Arxiv](https://arxiv.org/abs/1612.05362)
+
 - **2017-01** | A Deep Learning Approach for Cancer Detection and Relevant Gene Identification | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0022)
 
 - **2017-01** | Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Lanchantin, Jack, Ritambhara Singh, Beilun Wang, and Yanjun Qi* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0025)
