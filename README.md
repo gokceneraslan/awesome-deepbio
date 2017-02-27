@@ -201,6 +201,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | Medical Image Synthesis with Context-Aware Generative Adversarial Networks | *Dong Nie, Roger Trullo, Caroline Petitjean, Su Ruan, Dinggang Shen* | [Arxiv](https://arxiv.org/abs/1612.05362)
 
+- **2016-12** | Unsupervised Learning from Noisy Networks with Applications to Hi-C Data | *Wang, Bo, Junjie Zhu, Armin Pourshafeie, Oana Ursu, Serafim Batzoglou, and Anshul Kundaje* | [Advances in Neural Information Processing Systems (NIPS 2016)](http://papers.nips.cc/paper/6291-unsupervised-learning-from-noisy-networks-with-applications-to-hi-c-data)
+
 - **2017-01** | A Deep Learning Approach for Cancer Detection and Relevant Gene Identification | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0022)
 
 - **2017-01** | Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Lanchantin, Jack, Ritambhara Singh, Beilun Wang, and Yanjun Qi* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0025)
@@ -216,6 +218,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2017-01** | Learning the Structural Vocabulary of a Network | *Saket Navlakha* | [Neural Computation](https://doi.org/10.1162/NECO_a_00924)
 
 - **2017-01** | Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphisms | *Sierra S. Nishizaki, Alan P. Boyle* | [Trends in Genetics](http://dx.doi.org/10.1016/j.tig.2016.10.008)
+
+- **2017-01** | Reverse-complement parameter sharing improves deep learning models for genomics | *Avanti Shrikumar, Peyton Greenside, Anshul Kundaje* | [bioRxiv](https://doi.org/10.1101/103663)
 
 ### Contribution
 
