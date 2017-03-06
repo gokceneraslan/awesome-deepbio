@@ -221,6 +221,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | Reverse-complement parameter sharing improves deep learning models for genomics | *Avanti Shrikumar, Peyton Greenside, Anshul Kundaje* | [bioRxiv](https://doi.org/10.1101/103663)
 
+- **2017-02** | Imputation for transcription factor binding predictions based on deep learning | *Qian Qin, Jianxing Feng* | [PloS Computational Biology](http://dx.doi.org/10.1371/journal.pcbi.1005403)
+
 ### Contribution
 
 Feel free to send a pull request.
