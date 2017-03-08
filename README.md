@@ -211,8 +211,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-07** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbw068/2562808/Deep-learning-in-bioinformatics)
 
-- **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular systems biology](http://msb.embopress.org/content/12/7/878)
-
 - **2016-08** | DeepChrome: deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin,  Gabriel Robins,  Yanjun Qi* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/17/i639/2450757/DeepChrome-deep-learning-for-predicting-gene)
 
 - **2017-01** | Understanding sequence conservation with deep learning | *Yi Li, Daniel Quang, Xiaohui Xie* | [Biorxiv](http://biorxiv.org/content/early/2017/01/28/103929)
