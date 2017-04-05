@@ -39,8 +39,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-10** | Deep Learning for Drug-Induced Liver Injury | *Youjun Xu, Ziwei Dai, Fangjin Chen, Shuaishi Gao, Jianfeng Pei, and Luhua Lai* | [ASC Journal of Chemical Information and Modeling](https://doi.org/10.1021/acs.jcim.5b00238)
 
-- **2016-01** | Convolutional neural network architectures for predicting DNA–protein binding | * Haoyang Zeng, Matthew D. Edwards, Ge Liu, David K. Gifford* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/12/i121/2240609/Convolutional-neural-network-architectures-for) | [code](http://cnn.csail.mit.edu)
-
 - **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://dx.doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btv643)
@@ -105,7 +103,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-06** | Classifying and segmenting microscopy images with deep multiple instance learning | *Oren Z. Kraus, Jimmy Lei Ba and Brendan J. Frey* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw252)
 
-- **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | *Haoyang Zeng, Matthew D. Edwards, Ge Liu and David K. Gifford*  | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw255)
+- **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | *Haoyang Zeng, Matthew D. Edwards, Ge Liu and David K. Gifford*  | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw255) | [code](http://cnn.csail.mit.edu)
 
 - **2016-06** | DeepLNC, a long non-coding RNA prediction tool using deep neural network | *Rashmi Tripathi, Sunil Patel, Vandana Kumari, Pavan Chakraborty, Pritish Kumar Varadwaj* | [Network Modeling Analysis in Health Informatics and Bioinformatics](https://doi.org/10.1007/s13721-016-0129-2)
 
@@ -195,8 +193,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | A high-precision shallow Convolutional Neural Network based strategy for the detection of Genomic Deletions | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822793)
 
-- **2016-12** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [bioRxiv](https://doi.org/10.1101/073809)
-
 - **2016-12** | The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology | *Kadurin, Artur, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanhaelen, Kuzma Khrabrov, and Alex Zhavoronkov* | [Oncotarget](https://doi.org/10.18632/oncotarget.14073)
 
 - **2016-12** | Medical Image Synthesis with Context-Aware Generative Adversarial Networks | *Dong Nie, Roger Trullo, Caroline Petitjean, Su Ruan, Dinggang Shen* | [Arxiv](https://arxiv.org/abs/1612.05362)
@@ -234,6 +230,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2017-02** | Imputation for transcription factor binding predictions based on deep learning | *Qian Qin, Jianxing Feng* | [PloS Computational Biology](http://dx.doi.org/10.1371/journal.pcbi.1005403)
 
 - **2017-02** | Deep Learning based multi-omics integration robustly predicts survival in liver cancer | *Kumardeep Chaudhary, Olivier B. Poirion, Liangqun Lu, Lana Garmire* | [bioRxiv](https://doi.org/10.1101/114892)
+
+- **2017-03** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkx177)
 
 - **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
 
