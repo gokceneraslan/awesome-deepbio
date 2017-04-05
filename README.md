@@ -203,6 +203,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | Unsupervised Learning from Noisy Networks with Applications to Hi-C Data | *Wang, Bo, Junjie Zhu, Armin Pourshafeie, Oana Ursu, Serafim Batzoglou, and Anshul Kundaje* | [Advances in Neural Information Processing Systems (NIPS 2016)](http://papers.nips.cc/paper/6291-unsupervised-learning-from-noisy-networks-with-applications-to-hi-c-data)
 
+- **2016-12** | Deep Learning for Health Informatics | *Daniele Ravì, Charence Wong, Fani Deligianni, Melissa Berthelot, Javier Andreu-Perez, Benny Lo, and Guang-Zhong Yang* | [IEEE Journal of Biomedical and Health Informatics](https://doi.org/10.1109/JBHI.2016.2636665)
+
 - **2017-01** | A Deep Learning Approach for Cancer Detection and Relevant Gene Identification | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0022)
 
 - **2017-01** | Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks | *Lanchantin, Jack, Ritambhara Singh, Beilun Wang, and Yanjun Qi* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0025)
@@ -225,7 +227,15 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | Integrative Deep Models for Alternative Splicing | *Anupama Jha, Matthew R Gazzara, Yoseph Barash* | [bioRxiv](https://doi.org/10.1101/104869)
 
+- **2017-01** | Deep Recurrent Neural Network for Protein Function Prediction from Sequence | *Xueliang Leon Liu* | [bioRxiv](https://doi.org/10.1101/103994)
+
+- **2017-01** | Nucleotide sequence and DNaseI sensitivity are predictive of 3D chromatin architecture | *Jacob Schreiber, Maxwell Libbrecht, Jeffrey Bilmes, William Noble* | [bioRxiv](https://doi.org/10.1101/103614)
+
 - **2017-02** | Imputation for transcription factor binding predictions based on deep learning | *Qian Qin, Jianxing Feng* | [PloS Computational Biology](http://dx.doi.org/10.1371/journal.pcbi.1005403)
+
+- **2017-02** | Deep Learning based multi-omics integration robustly predicts survival in liver cancer | *Kumardeep Chaudhary, Olivier B. Poirion, Liangqun Lu, Lana Garmire* | [bioRxiv](https://doi.org/10.1101/114892)
+
+- **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
 
 ### Contribution
 
