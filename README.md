@@ -39,8 +39,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-10** | Deep Learning for Drug-Induced Liver Injury | *Youjun Xu, Ziwei Dai, Fangjin Chen, Shuaishi Gao, Jianfeng Pei, and Luhua Lai* | [ASC Journal of Chemical Information and Modeling](https://doi.org/10.1021/acs.jcim.5b00238)
 
-- **2016-01** | Convolutional neural network architectures for predicting DNA–protein binding | * Haoyang Zeng, Matthew D. Edwards, Ge Liu, David K. Gifford* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/12/i121/2240609/Convolutional-neural-network-architectures-for) | [code](http://cnn.csail.mit.edu)
-
 - **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://dx.doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
 
 - **2015-11** | De novo identification of replication-timing domains in the human genome by deep learning | *Feng Liu, Chao Ren, Hao Li, Pingkun Zhou, Xiaochen Bo and Wenjie Shu* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btv643)
@@ -105,15 +103,17 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-06** | Classifying and segmenting microscopy images with deep multiple instance learning | *Oren Z. Kraus, Jimmy Lei Ba and Brendan J. Frey* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw252)
 
-- **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | *Haoyang Zeng, Matthew D. Edwards, Ge Liu and David K. Gifford*  | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw255)
+- **2016-06** | Convolutional neural network architectures for predicting DNA–protein binding | *Haoyang Zeng, Matthew D. Edwards, Ge Liu and David K. Gifford*  | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw255) | [code](http://cnn.csail.mit.edu)
 
 - **2016-06** | DeepLNC, a long non-coding RNA prediction tool using deep neural network | *Rashmi Tripathi, Sunil Patel, Vandana Kumari, Pavan Chakraborty, Pritish Kumar Varadwaj* | [Network Modeling Analysis in Health Informatics and Bioinformatics](https://doi.org/10.1007/s13721-016-0129-2)
 
 - **2016-06** | Virtual Screening: A Challenge for Deep Learning | *Javier Pérez-Sianes, Horacio Pérez-Sánchez, Fernando Díaz* | [10th International Conference on Practical Applications of Computational Biology & Bioinformatics](https://doi.org/10.1007/978-3-319-40126-3_2)
 
-- **2016-07** | DeepChrome: Deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin, Gabriel Robins, Yanjun Qi* | [Arxiv](https://arxiv.org/abs/1607.02078)
-
 - **2016-07** | Deep learning for computational biology | *Christof Angermueller, Tanel Pärnamaa, Leopold Parts, Oliver Stegle* | [Molecular Systems Biology](https://doi.org/10.15252/msb.20156651)
+
+- **2016-07** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
+
+- **2016-08** | DeepChrome: deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin,  Gabriel Robins,  Yanjun Qi* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw427)
 
 - **2016-08** | Deep Artificial Neural Networks and Neuromorphic Chips for Big Data Analysis: Pharmaceutical and Bioinformatics Applications | *Lucas Antón Pastur-Romay, Francisco Cedrón, Alejandro Pazos and Ana Belén Porto-Pazos* | [International Journal of Molecular Sciences](https://doi.org/10.3390/ijms17081313)
 
@@ -193,11 +193,13 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-12** | A high-precision shallow Convolutional Neural Network based strategy for the detection of Genomic Deletions | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2016.7822793)
 
-- **2016-12** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [bioRxiv](https://doi.org/10.1101/073809)
-
 - **2016-12** | The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology | *Kadurin, Artur, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanhaelen, Kuzma Khrabrov, and Alex Zhavoronkov* | [Oncotarget](https://doi.org/10.18632/oncotarget.14073)
 
 - **2016-12** | Medical Image Synthesis with Context-Aware Generative Adversarial Networks | *Dong Nie, Roger Trullo, Caroline Petitjean, Su Ruan, Dinggang Shen* | [Arxiv](https://arxiv.org/abs/1612.05362)
+
+- **2016-12** | Unsupervised Learning from Noisy Networks with Applications to Hi-C Data | *Wang, Bo, Junjie Zhu, Armin Pourshafeie, Oana Ursu, Serafim Batzoglou, and Anshul Kundaje* | [Advances in Neural Information Processing Systems (NIPS 2016)](http://papers.nips.cc/paper/6291-unsupervised-learning-from-noisy-networks-with-applications-to-hi-c-data)
+
+- **2016-12** | Deep Learning for Health Informatics | *Daniele Ravì, Charence Wong, Fani Deligianni, Melissa Berthelot, Javier Andreu-Perez, Benny Lo, and Guang-Zhong Yang* | [IEEE Journal of Biomedical and Health Informatics](https://doi.org/10.1109/JBHI.2016.2636665)
 
 - **2017-01** | A Deep Learning Approach for Cancer Detection and Relevant Gene Identification | *Wang, Jing, Cheng Ling, and Jingyang Gao* | [Pacific Symposium on Biocomputing 2017](http://dx.doi.org/10.1142/9789813207813_0022)
 
@@ -209,15 +211,29 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | Dermatologist-level classification of skin cancer with deep neural networks | *Andre Esteva, Brett Kuprel, Roberto A. Novoa, Justin Ko, Susan M. Swetter, Helen M. Blau & Sebastian Thrun* | [Nature](https://doi.org/10.1038/nature21056)
 
-- **2016-07** | Deep Learning in Bioinformatics | *Seonwoo Min, Byunghan Lee, Sungroh Yoon* | [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbw068/2562808/Deep-learning-in-bioinformatics)
+- **2017-01** | Understanding sequence conservation with deep learning | *Yi Li, Daniel Quang, Xiaohui Xie* | [Biorxiv](https://doi.org/10.1101/103929)
 
-- **2016-08** | DeepChrome: deep-learning for predicting gene expression from histone modifications | *Ritambhara Singh, Jack Lanchantin,  Gabriel Robins,  Yanjun Qi* | [Bioinformatics](https://academic.oup.com/bioinformatics/article/32/17/i639/2450757/DeepChrome-deep-learning-for-predicting-gene)
+- **2017-01** | Learning the Structural Vocabulary of a Network | *Saket Navlakha* | [Neural Computation](https://doi.org/10.1162/NECO_a_00924)
 
-- **2017-01** | Understanding sequence conservation with deep learning | *Yi Li, Daniel Quang, Xiaohui Xie* | [Biorxiv](http://biorxiv.org/content/early/2017/01/28/103929)
+- **2017-01** | Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphisms | *Sierra S. Nishizaki, Alan P. Boyle* | [Trends in Genetics](http://dx.doi.org/10.1016/j.tig.2016.10.008)
 
-- **2017-01** | Learning the Structural Vocabulary of a Network | *Saket Navlakha* | [Neural Computation](http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00924#.WJ2iQkaQn6A)
+- **2017-01** | Reverse-complement parameter sharing improves deep learning models for genomics | *Avanti Shrikumar, Peyton Greenside, Anshul Kundaje* | [bioRxiv](https://doi.org/10.1101/103663)
 
-- **2017-01** | Mining the Unknown: Assigning Function to Noncoding Single Nucleotide Polymorphisms | *Sierra S. Nishizaki, Alan P. Boyle* | [Trends in Genetics](http://www.sciencedirect.com/science/article/pii/S0168952516301470)
+- **2017-01** | TIDE: predicting translation initiation sites by deep learning | *Sai Zhang, Hailin Hu, Tao Jiang, Lei Zhang, Jianyang Zeng* | [bioRxiv](https://doi.org/10.1101/103374)
+
+- **2017-01** | Integrative Deep Models for Alternative Splicing | *Anupama Jha, Matthew R Gazzara, Yoseph Barash* | [bioRxiv](https://doi.org/10.1101/104869)
+
+- **2017-01** | Deep Recurrent Neural Network for Protein Function Prediction from Sequence | *Xueliang Leon Liu* | [bioRxiv](https://doi.org/10.1101/103994)
+
+- **2017-01** | Nucleotide sequence and DNaseI sensitivity are predictive of 3D chromatin architecture | *Jacob Schreiber, Maxwell Libbrecht, Jeffrey Bilmes, William Noble* | [bioRxiv](https://doi.org/10.1101/103614)
+
+- **2017-02** | Imputation for transcription factor binding predictions based on deep learning | *Qian Qin, Jianxing Feng* | [PloS Computational Biology](http://dx.doi.org/10.1371/journal.pcbi.1005403)
+
+- **2017-02** | Deep Learning based multi-omics integration robustly predicts survival in liver cancer | *Kumardeep Chaudhary, Olivier B. Poirion, Liangqun Lu, Lana Garmire* | [bioRxiv](https://doi.org/10.1101/114892)
+
+- **2017-03** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkx177)
+
+- **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
 
 ### Contribution
 
