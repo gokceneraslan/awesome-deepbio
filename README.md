@@ -93,8 +93,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-05** | Deep learning applications for predicting pharmacological properties of drugs and drug repurposing using transcriptomic data | *Alexander Aliper, Sergey Plis, Artem Artemov, Alvaro Ulloa, Polina Mamoshina, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://doi.org/10.1021/acs.molpharmaceut.6b00248)
 
-- **2016-05** | Accurate prediction of single-cell DNA methylation states using deep learning | *Christof Angermueller, Heather Lee, Wolf Reik, Oliver Stegle* | [Biorxiv](https://doi.org/10.1101/055715)
-
 - **2016-05** | Deep Machine Learning provides state-of-the-art performance in image-based plant phenotyping | *Michael P. Pound, Alexandra J. Burgess, Michael H. Wilson, Jonathan A. Atkinson, Marcus Griffiths, Aaron S. Jackson, Adrian Bulat, Yorgos Tzimiropoulos, Darren M. Wells, Erik H. Murchie, Tony P. Pridmore, Andrew P. French* | [Biorxiv](https://doi.org/10.1101/053033)
 
 - **2016-05** | Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures | *Laura Deming, Sasha Targ, Nate Sauder, Diogo Almeida, Chun Jimmie Ye* | [Arxiv](https://arxiv.org/abs/1605.07156v1)
@@ -125,8 +123,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-09** | The Next Era: Deep Learning in Pharmaceutical Research | *Sean Ekins* | [Pharmaceutical Research](https://dx.doi.org/10.1007/s11095-016-2029-7)
 
-- **2016-09** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [Arxiv](https://arxiv.org/abs/1609.00680)
-
 - **2016-10** | Automatic chemical design using a data-driven continuous representation of molecules | *Rafael Gómez-Bombarelli, David Duvenaud, José Miguel Hernández-Lobato, Jorge Aguilera-Iparraguirre, Timothy D. Hirzel, Ryan P. Adams, Alán Aspuru-Guzik* | [Arxiv](https://arxiv.org/abs/1610.02415)
 
 - **2016-10** | FIDDLE: An integrative deep learning framework for functional genomic data inference | *Umut Eser, L. Stirling Churchman* | [bioRxiv](http://dx.doi.org/10.1101/081380)
@@ -144,8 +140,6 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-11** | Diet Networks: Thin Parameters for Fat Genomic | *Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Marie-Pierre Dubé, Julie G. Hussin, Yoshua Bengio* | [Arxiv](https://arxiv.org/abs/1611.09340)
 
 - **2016-11** | DeeperBind: Enhancing Prediction of Sequence Specificities of DNA Binding Proteins | *Hamid Reza Hassanzadeh, May D. Wang* | [Arxiv](https://arxiv.org/abs/1611.05777)
-
-- **2016-11** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [bioRxiv](https://doi.org/10.1101/073239)
 
 - **2016-11** | Deep learning with feature embedding for compound-protein interaction prediction | *Fangping Wan, Jianyang Zeng* | [bioRxiv](https://doi.org/10.1101/086033)
 
@@ -227,6 +221,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | Nucleotide sequence and DNaseI sensitivity are predictive of 3D chromatin architecture | *Jacob Schreiber, Maxwell Libbrecht, Jeffrey Bilmes, William Noble* | [bioRxiv](https://doi.org/10.1101/103614)
 
+- **2017-01** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1005324)
+
 - **2017-02** | Imputation for transcription factor binding predictions based on deep learning | *Qian Qin, Jianxing Feng* | [PloS Computational Biology](http://dx.doi.org/10.1371/journal.pcbi.1005403)
 
 - **2017-02** | Deep Learning based multi-omics integration robustly predicts survival in liver cancer | *Kumardeep Chaudhary, Olivier B. Poirion, Liangqun Lu, Lana Garmire* | [bioRxiv](https://doi.org/10.1101/114892)
@@ -234,6 +230,10 @@ A curated list of awesome deep learning applications in the field of computation
 - **2017-03** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkx177)
 
 - **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
+
+- **2017-04** | DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning | *Christof Angermueller, Heather J. Lee, Wolf Reik, and Oliver Stegle* | [Genome Biology](https://doi.org/10.1186/s13059-017-1189-z)
+
+- **2017-04** | Generalising Better: Applying Deep Learning To Integrate Deleteriousness Prediction Scores For Whole-Exome SNV Studies | *Ilia Korvigo, Andrey Afanasyev, Nikolay Romashchenko, Mihail Skoblov* | [bioRxiv](https://doi.org/10.1101/126532)
 
 ### Contribution
 
