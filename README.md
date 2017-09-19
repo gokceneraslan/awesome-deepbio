@@ -16,7 +16,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2014-11** | Pairwise input neural network for target-ligand interaction prediction | *Caihua Wang, Juan Liu, Fei Luo, Yafang Tan, Zixin Deng, Qian-Nan Hu* | [2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2014.6999129)
 
-- **2014-12** | Deep learning as an opportunity in virtual screening | * Thomas Unterthiner, Andreas Mayr, Günter Klambauer, Marvin Steijaert, Jörg K. Wegner, Hugo Ceulemans, & Sepp Hochreiter | [In Proceedings of the Deep Learning Workshop at NIPS](http://www.datascienceassn.org/sites/default/files/Deep%20Learning%20as%20an%20Opportunity%20in%20Virtual%20Screening.pdf).
+- **2014-12** | Deep learning as an opportunity in virtual screening | *Thomas Unterthiner, Andreas Mayr, Günter Klambauer, Marvin Steijaert, Jörg K. Wegner, Hugo Ceulemans, & Sepp Hochreiter* | [In Proceedings of the Deep Learning Workshop at NIPS](http://www.datascienceassn.org/sites/default/files/Deep%20Learning%20as%20an%20Opportunity%20in%20Virtual%20Screening.pdf).
 
 
 - **2015-01** | Unsupervised feature construction and knowledge extraction from genome-wide assays of breast cancer with denoising autoencoders. | *Jie Tan, Matt Ung, Chao Cheng, Casey Greene* | [Pacific Symposium on Biocomputing (PSB)](https://doi.org/10.1142/9789814644730_0014) | [Models & Data](http://discovery.dartmouth.edu/~cgreene/da-psb2015/)
