@@ -235,6 +235,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
 
+- **2017-11** | Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks | *Žiga Avsec, Mohammadamin Barekatain, Jun Cheng, Julien Gagneur* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx727)
+
 ### Contribution
 
 Feel free to send a pull request.
