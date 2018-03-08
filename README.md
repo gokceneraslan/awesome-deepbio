@@ -2,6 +2,7 @@
 
 A curated list of awesome deep learning applications in the field of computational biology
 
+- **2007-08** | Fast model-based protein homology detection without alignment | *Sepp Hochreiter, Martin Heusel, and Klaus Obermayer* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btm247)
 
 - **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi* [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
 
@@ -14,6 +15,9 @@ A curated list of awesome deep learning applications in the field of computation
 - **2014-10** | DANN: a deep learning approach for annotating the pathogenicity of genetic variants  | *Daniel Quang, Yifei Chen and Xiaohui Xie* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btu703)
 
 - **2014-11** | Pairwise input neural network for target-ligand interaction prediction | *Caihua Wang, Juan Liu, Fei Luo, Yafang Tan, Zixin Deng, Qian-Nan Hu* | [2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2014.6999129)
+
+- **2014-12** | Deep learning as an opportunity in virtual screening | *Thomas Unterthiner, Andreas Mayr, Günter Klambauer, Marvin Steijaert, Jörg K. Wegner, Hugo Ceulemans, & Sepp Hochreiter* | [In Proceedings of the Deep Learning Workshop at NIPS](http://www.datascienceassn.org/sites/default/files/Deep%20Learning%20as%20an%20Opportunity%20in%20Virtual%20Screening.pdf).
+
 
 - **2015-01** | Unsupervised feature construction and knowledge extraction from genome-wide assays of breast cancer with denoising autoencoders. | *Jie Tan, Matt Ung, Chao Cheng, Casey Greene* | [Pacific Symposium on Biocomputing (PSB)](https://doi.org/10.1142/9789814644730_0014) | [Models & Data](http://discovery.dartmouth.edu/~cgreene/da-psb2015/)
 
@@ -56,6 +60,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-01** | ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions | [mSystems](https://doi.org/10.1128/mSystems.00025-15) | [code](https://github.com/greenelab/adage)
 
 - **2016-01** | Deep Learning in Drug Discovery | *Erik Gawehn, Jan A. Hiss and Gisbert Schneider* | [Molecular Informatics](https://doi.org/10.1002/minf.201501008)
+
+- **2016-02** | DeepTox: toxicity prediction using deep learning | *Andreas Mayr, Günter Klambauer, Thomas Unterthiner, and Sepp Hochreiter* | [Frontiers in Environmental Science](http://journal.frontiersin.org/article/10.3389/fenvs.2015.00080/full) 
 
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw074)
 
@@ -235,8 +241,11 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
 
-- **2017-09** | DeepLoc: prediction of protein subcellular localization using deep learning
- | *José JA Armenteros, Casper K Sønderby, Søren K Sønderby, Henrik Nielsen, Ole Winther* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx431)
+- **2017-09** | DeepLoc: prediction of protein subcellular localization using deep learning | *José JA Armenteros, Casper K Sønderby, Søren K Sønderby, Henrik Nielsen, Ole Winther* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx431)
+
+- **2017-11** | Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks | *Žiga Avsec, Mohammadamin Barekatain, Jun Cheng, Julien Gagneur* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx727)
+
+- **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
 
 
 ### Contribution
