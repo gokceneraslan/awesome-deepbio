@@ -241,6 +241,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
 
+- **2017-09** | DeepLoc: prediction of protein subcellular localization using deep learning | *José JA Armenteros, Casper K Sønderby, Søren K Sønderby, Henrik Nielsen, Ole Winther* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx431)
+
 - **2017-11** | Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks | *Žiga Avsec, Mohammadamin Barekatain, Jun Cheng, Julien Gagneur* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx727)
 
 - **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
