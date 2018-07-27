@@ -246,6 +246,7 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
 
+- **2018-06** | Convolutional neural networks for classification of alignments of non-coding RNA sequences | *Genta Aoki, Yasubumi Sakakibara* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/bty228)
 
 ### Contribution
 
