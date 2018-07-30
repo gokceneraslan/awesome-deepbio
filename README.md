@@ -148,6 +148,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-11** | Deep learning with feature embedding for compound-protein interaction prediction | *Fangping Wan, Jianyang Zeng* | [bioRxiv](https://doi.org/10.1101/086033)
 
+- **2016-11** | Deep Learning Automates the Quantitative Analysis of Individual Cells in Live-Cell Imaging Experiments | *David A. Van Valen, Takamasa Kudo, Keara M. Lane, Derek N. Macklin, Nicolas T. Quach, Mialy M. DeFelice, Inbal Maayan, Yu Tanouchi, Euan A. Ashley, Markus W. Covert* | [PLoS Computational Biology](https://doi.org/10.1371/journal.pcbi.1005177)
+
 - **2016-12** | Creating a universal SNP and small indel variant caller with deep neural networks | *Ryan Poplin, Dan Newburger, Jojo Dijamco, Nam Nguyen, Dion Loy, Sam S. Gross, Cory Y. McLean, Mark A. DePristo* | [bioRxiv](https://doi.org/10.1101/092890)
 
 - **2016-12** | DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning | *Rajendra Rana Bhat, Vivek Viswanath, Xiaolin Li* | [Arxiv](http://arxiv.org/abs/1612.03211)
