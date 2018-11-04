@@ -246,6 +246,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-11** | Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks | *Žiga Avsec, Mohammadamin Barekatain, Jun Cheng, Julien Gagneur* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx727)
 
+- **2017-11** | Protein Loop Modeling Using Deep Generative Adversarial Network | *Zhaoyu Li, Son P. Nguyen, Dong Xu, Yi Shang* | [ICTAI](https://ieeexplore.ieee.org/abstract/document/8372069)
+
 - **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
 
 - **2017-12** | Predicting enhancers with deep convolutional neural networks | *Xu Min, Wanwen Zeng, Shengquan Chen, Ning Chen, Ting Chen and Rui Jiang* | [BMC Bioinformatics](https://doi.org/10.1186/s12859-017-1878-3)
