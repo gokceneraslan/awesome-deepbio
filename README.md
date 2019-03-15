@@ -254,6 +254,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2018-06** | Convolutional neural networks for classification of alignments of non-coding RNA sequences | *Genta Aoki, Yasubumi Sakakibara* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/bty228)
 
+- **2019-02** | DeepRibo: a neural network for precise gene annotation of prokaryotes by combining ribosome profiling signal and binding site patterns | *Jim Clauwaert, Gerben Menschaert, Willem Waegeman* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkz061)
+
 ### Contribution
 
 Feel free to send a pull request.
