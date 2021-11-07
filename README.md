@@ -256,6 +256,9 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2019-02** | DeepRibo: a neural network for precise gene annotation of prokaryotes by combining ribosome profiling signal and binding site patterns | *Jim Clauwaert, Gerben Menschaert, Willem Waegeman* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkz061)
 
+
+- **2021-11** | A Unified View of Relational Deep Learning for Polypharmacy Side Effect, Combination Therapy, and Drug-Drug Interaction Prediction | *Benedek Rozemberczki, Stephen Bonner, Andriy Nikolov, Michael Ughetto, Sebastian Nilsson, Eliseo Papa* | [arxiv](https://arxiv.org/abs/2111.02916)
+
 ### Contribution
 
 Feel free to send a pull request.
